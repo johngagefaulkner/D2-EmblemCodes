@@ -63,6 +63,10 @@ function enterCodeLoop() {
     i++;
     if (i < d2codes.length) {
       enterCodeLoop();
+    } else {
+      alert(
+        "All provided Destiny 2 emblem codes have been successfully entered!"
+      );
     }
   }, delay);
 }
