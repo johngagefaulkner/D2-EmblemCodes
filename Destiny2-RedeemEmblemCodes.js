@@ -24,7 +24,8 @@ var d2codes = [
   "L7T-CVV-3RD",
   "F99-KPX-NCF",
   "6LJ-GH7-TPA",
-  "PHV-6LF-9CP"
+  "PHV-6LF-9CP",
+  "VA7-L7H-PNC"
 ];
 
 // Tells the script which textbox to type the emblem codes into.
