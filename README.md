@@ -99,3 +99,8 @@ enterCodeLoop();
 |The Reflective Proof     |N3L-XN6-PXF|
 |The Unimagined Plane     |X9F-GMA-H6D|
 |The Visionary            |XFV-KHP-N97|
+|Heliotrope Warren |L7T-CVV-3RD|
+|Shadow's Light |F99-KPX-NCF|
+|Sneer of the Oni |6LJ-GH7-TPA|
+|Countdown to Convergence |PHV-6LF-9CP|
+|Liminial Nadir |VA7-L7H-PNC|
